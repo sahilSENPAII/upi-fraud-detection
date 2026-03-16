@@ -1,0 +1,14 @@
+# data files - too large for github
+data/
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+*.joblib
+
+# environment
+.env
+venv/
